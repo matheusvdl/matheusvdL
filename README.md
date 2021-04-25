@@ -1,12 +1,10 @@
 ### Hi there, I'm Matheus  
 
-Have a project to build? Call me
 
 ## I'm a Developer and a not Professional CS:GO Player
 
-- Front-end developer
+- Front-end developer at [jazida.com](https://jazida.com/)
 - Back-end student
-
 
 
 ### Connect with me:
