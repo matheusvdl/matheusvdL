@@ -19,7 +19,7 @@
 [linkedin]: https://linkedin.com/in/matheusvdl
 
 <div>
-  <a href="https://github.com/melosso">
+  <a href="https://github.com/matheusvdL">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheusvdL&layout=compact&langs_count=7&theme=radical"/>
 </div>
 
