@@ -1,7 +1,7 @@
 ### Hi there, I'm Matheus  
 
-
-## I'm a Developer
+Challenge-driven developer aimed at delivering value. Available for performing as Fullstack, focused on Front-end.
+Passionate about Front-end architecture, DevOps and Design Thinking.
 
 - Front-end developer at [jazida.com](https://jazida.com/)
 - Back-end student
