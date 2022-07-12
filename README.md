@@ -1,6 +1,7 @@
 ### Hi there, I'm Matheus  
 
 Challenge-driven developer aimed at delivering value. Available for performing as Fullstack, focused on Front-end.
+<br />
 Passionate about Front-end architecture, DevOps and Design Thinking.
 
 - Front-end developer at [jazida.com](https://jazida.com/)
@@ -9,7 +10,8 @@ Passionate about Front-end architecture, DevOps and Design Thinking.
 
 ### Connect with me:
 
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/matheusvdl/)
+[![Outlook](https://img.shields.io/badge/-Outlook-0078D4?style=flat&logo=Microsoft-Outlook&logoColor=white)](mailto:contatomvdl@hotmail.com)
 
 <br />
 <br />
