@@ -2,11 +2,9 @@
 
 Challenge-driven developer aimed at delivering value, experienced in scalable products with large data streams and used by thousands of users.
 <br />
-Focused on Front-end, available for performing as Fullstack. Passionate about Front-end architecture, DevOps and Design Thinking.
+Fullstack developer, focused on Front-end. Passionate about Architecture, DevOps and Design Thinking.
 
 - Front-end developer at [jazida.com](https://jazida.com/)
-- Back-end student
-
 
 ### Connect with me:
 
