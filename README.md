@@ -3,7 +3,7 @@ Full-stack developer driven by challenges, with over 5 years of experience in sc
 
 Extensive experience in microfrontend and monolithic architectures, CI/CD configuration, and pipeline management. Focused on optimization and performance improvement.
 
-Enthusiast of Systems Design, DevOps, and Product.
+Enthusiast of System Design, DevOps and Product.
 <br />
 
 - Developer at [jazida.com](https://jazida.com/)
