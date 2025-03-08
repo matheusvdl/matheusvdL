@@ -1,5 +1,9 @@
 
-Challenge-driven developer aimed at delivering value, experienced in scalable products with large data streams and used by thousands of users. Passionate about Architecture, DevOps and Design Thinking.
+Full-stack developer driven by challenges, with over 5 years of experience in scalable products, handling large data flows, and serving thousands of users.
+
+Extensive experience in microfrontend and monolithic architectures, CI/CD configuration, and pipeline management. Focused on optimization and performance improvement.
+
+Enthusiast of Systems Design, DevOps, and Product.
 <br />
 
 - Developer at [jazida.com](https://jazida.com/)
