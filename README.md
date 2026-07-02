@@ -1,4 +1,4 @@
 
-building APIs and AI Agents with Python, Node, Go, and .NET 
+building Backend Systems and AI Agents with  Node, .NET, Python, and Go.
 <br>
 focused on product, engineering, and AI
